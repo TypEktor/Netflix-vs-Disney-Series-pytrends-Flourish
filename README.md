@@ -11,3 +11,19 @@ However, a streaming service's power is its content. Netflix still holds some po
 Some prior analysis for selecting these 5 shows have already been done. It has been identified that the most Googled shows for Netflix (this doesn't include movies) for 2022 were: Stranger Things, Umbrella Academy, Peaky Blinders and Bridgerton. On the other hand the most popular show for Disney was, I was quite surprised, Marvel's Moon Knight.
 
 ---
+## Contents
+
+
+---
+
+## Data
+
+All the data used for this mini-project have been collected from https://trends.google.com/trends/?geo=GB. An amazing Python library called pytrends let us download everything necessary for this work from our IDE.
+
+---
+## Analysis
+
+
+---
+## Future Work
+The plan for this project is to grow arms and legs over time. This includes further analysis using data from different data sources and maybe include some spicy ML prediction models or a recommendation system.
