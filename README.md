@@ -12,11 +12,11 @@ Some prior analysis for selecting these 5 shows have already been done. It has b
 
 ---
 ## Contents
-- Net_Dis_Functions.py : A function containing all the functions used in the .ipynb file
+- **Net_Dis_Functions.py:** A function containing all the functions used in the .ipynb file
 
-- Netflix vs Disney.ipynb : The implementation
+- **Netflix vs Disney.ipynb:** The implementation
 
-- Plots: Contains the plots of the .ipynb file
+- **Plots:** Contains the plots of the .ipynb file
 
 ---
 
